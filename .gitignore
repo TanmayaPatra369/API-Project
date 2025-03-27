@@ -1,0 +1,12 @@
+/server/*.env
+/server/node_modules
+/server/.prettierrc
+/server/eslint.config.mjs
+
+/client/node_modules/
+/client/.prettierrc
+/client/eslint.config.js
+/client/vite.config.js
+/client/src/assets/idea.png
+
+todo.md

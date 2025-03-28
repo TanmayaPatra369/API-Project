@@ -147,4 +147,4 @@ If you'd like to contribute, please follow these steps:
 
 ---
 
-Thank you for visiting this project! I hope you find it useful.
+This project is open source please feel free to contribute.
